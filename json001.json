@@ -1,0 +1,102 @@
+[
+  {
+    "sourceSchema": "WORKFLOW",
+    "catalogueTypeId": 17,
+    "code": "KW-AET",
+    "name": "Tipo de expiración en asignaciones",
+    "systemId": 2,
+    "systemName": "Administración de Flujos",
+    "status": "1",
+    "createdDate": "2025-05-13T15:44:21.416075"
+  },
+  {
+    "sourceSchema": "WORKFLOW",
+    "catalogueTypeId": 12,
+    "code": "KW-AT",
+    "name": "Tipo de asignación",
+    "systemId": 2,
+    "systemName": "Administración de Flujos",
+    "status": "1",
+    "createdDate": "2025-05-13T15:44:15.76473"
+  },
+  {
+    "sourceSchema": "WORKFLOW",
+    "catalogueTypeId": 19,
+    "code": "KW-ATP",
+    "name": "Tipo de asignación por participante",
+    "systemId": 2,
+    "systemName": "Administración de Flujos",
+    "status": "1",
+    "createdDate": "2025-05-13T15:44:24.083174"
+  },
+  {
+    "sourceSchema": "WORKFLOW",
+    "catalogueTypeId": 14,
+    "code": "KW-CT",
+    "name": "Tipo de categoria",
+    "systemId": 2,
+    "systemName": "Administración de Flujos",
+    "status": "1",
+    "createdDate": "2025-05-13T15:44:17.583459"
+  },
+  {
+    "sourceSchema": "WORKFLOW",
+    "catalogueTypeId": 15,
+    "code": "KW-DT",
+    "name": "Tipo de desición en la asignación del objecto",
+    "systemId": 2,
+    "systemName": "Administración de Flujos",
+    "status": "1",
+    "createdDate": "2025-05-13T15:44:18.566776"
+  },
+  {
+    "sourceSchema": "WORKFLOW",
+    "catalogueTypeId": 21,
+    "code": "KW-ERS",
+    "name": "Estado de reintentos de ejecución",
+    "systemId": 2,
+    "systemName": "Administración de Flujos",
+    "status": "1",
+    "createdDate": "2025-05-13T15:44:27.023032"
+  },
+  {
+    "sourceSchema": "WORKFLOW",
+    "catalogueTypeId": 7,
+    "code": "KW-ET",
+    "name": "Tipo de Evento",
+    "systemId": 2,
+    "systemName": "Administración de Flujos",
+    "status": "1",
+    "createdDate": "2025-05-13T15:44:09.095615"
+  },
+  {
+    "sourceSchema": "WORKFLOW",
+    "catalogueTypeId": 16,
+    "code": "KW-FIT",
+    "name": "Tipo de campo",
+    "systemId": 2,
+    "systemName": "Administración de Flujos",
+    "status": "1",
+    "createdDate": "2025-05-13T15:44:19.980052"
+  },
+  {
+    "sourceSchema": "WORKFLOW",
+    "catalogueTypeId": 1,
+    "code": "KW-FT",
+    "name": "Tipos de Flujos",
+    "systemId": 2,
+    "systemName": "Administración de Flujos",
+    "status": "1",
+    "createdDate": "2025-05-13T15:43:59.352806"
+  },
+  {
+    "sourceSchema": "WORKFLOW",
+    "catalogueTypeId": 9,
+    "code": "KW-GFA",
+    "name": "Aplicacion de compuertas",
+    "systemId": 2,
+    "systemName": "Administración de Flujos",
+    "status": "1",
+    "createdDate": "2025-05-13T15:44:12.016127"
+  }
+]
