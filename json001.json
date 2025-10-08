@@ -1,5 +1,5 @@
 [
-  {
+ {
     "sourceSchema": "WORKFLOW",
     "catalogueTypeId": 17,
     "code": "KW-AET",
@@ -98,161 +98,11 @@
     "systemName": "Administración de Flujos",
     "status": "1",
     "createdDate": "2025-05-13T15:44:12.016127"
-  },
-  
+  }
 
-    {
-        "sourceSchema": "WORKFLOW",
-        "catalogueTypeId": 28,
-        "code": "KW-GT",
-        "name": "Tipos de Grupos",
-        "systemId": 2,
-        "systemName": "Administración de Flujos",
-        "status": "1",
-        "createdDate": "2025-05-13T15:44:34.176831"
-    },
-    {
-        "sourceSchema": "WORKFLOW",
-        "catalogueTypeId": 18,
-        "code": "KW-NET",
-        "name": "Tipo de expiración en notificaciones",
-        "systemId": 2,
-        "systemName": "Administración de Flujos",
-        "status": "1",
-        "createdDate": "2025-05-13T15:44:23.246196"
-    },
-    {
-        "sourceSchema": "WORKFLOW",
-        "catalogueTypeId": 24,
-        "code": "KW-OBS",
-        "name": "Status del Observador",
-        "systemId": 2,
-        "systemName": "Administración de Flujos",
-        "status": "1",
-        "createdDate": "2025-05-13T15:44:30.393539"
-    },
-    {
-        "sourceSchema": "WORKFLOW",
-        "catalogueTypeId": 23,
-        "code": "KW-OBT",
-        "name": "Tipo de Observador",
-        "systemId": 2,
-        "systemName": "Administración de Flujos",
-        "status": "1",
-        "createdDate": "2025-05-13T15:44:29.274207"
-    },
-    {
-        "sourceSchema": "WORKFLOW",
-        "catalogueTypeId": 2,
-        "code": "KW-OT",
-        "name": "Tipos de Objetos",
-        "systemId": 2,
-        "systemName": "Administración de Flujos",
-        "status": "1",
-        "createdDate": "2025-05-13T15:44:00.449243"
-    },
-    {
-        "sourceSchema": "WORKFLOW",
-        "catalogueTypeId": 13,
-        "code": "KW-PT",
-        "name": "Tipo de prioridad",
-        "systemId": 2,
-        "systemName": "Administración de Flujos",
-        "status": "1",
-        "createdDate": "2025-05-13T15:44:16.464301"
-    },
-    {
-        "sourceSchema": "WORKFLOW",
-        "catalogueTypeId": 26,
-        "code": "KW-ST",
-        "name": "Tipos de secuencias",
-        "systemId": 2,
-        "systemName": "Administración de Flujos",
-        "status": "1",
-        "createdDate": "2025-05-13T15:44:32.633254"
-    },
-    {
-        "sourceSchema": "WORKFLOW",
-        "catalogueTypeId": 3,
-        "code": "KW-TA",
-        "name": "Tipos de Actividades",
-        "systemId": 2,
-        "systemName": "Administración de Flujos",
-        "status": "1",
-        "createdDate": "2025-05-13T15:44:01.289237"
-    },
-    {
-        "sourceSchema": "WORKFLOW",
-        "catalogueTypeId": 8,
-        "code": "KW-TC",
-        "name": "Tipos de Compuertas",
-        "systemId": 2,
-        "systemName": "Administración de Flujos",
-        "status": "1",
-        "createdDate": "2025-05-13T15:44:10.344294"
-    },
-    {
-        "sourceSchema": "WORKFLOW",
-        "catalogueTypeId": 20,
-        "code": "KW-TQS",
-        "name": "Estado de la cola de tareas",
-        "systemId": 2,
-        "systemName": "Administración de Flujos",
-        "status": "1",
-        "createdDate": "2025-05-13T15:44:26.325214"
-    },
-      {
-        "sourceSchema": "WORKFLOW",
-        "catalogueTypeId": 5,
-        "code": "KW-TRT",
-        "name": "Disparador de Evento",
-        "systemId": 2,
-        "systemName": "Administración de Flujos",
-        "status": "1",
-        "createdDate": "2025-05-13T15:44:03.793444"
-    },
-    {
-        "sourceSchema": "WORKFLOW",
-        "catalogueTypeId": 25,
-        "code": "KW-TS",
-        "name": "Tipos de servidor",
-        "systemId": 2,
-        "systemName": "Administración de Flujos",
-        "status": "1",
-        "createdDate": "2025-05-13T15:44:31.091221"
-    },
-    {
-        "sourceSchema": "WORKFLOW",
-        "catalogueTypeId": 10,
-        "code": "KW-WS",
-        "name": "Estado del WorkItem",
-        "systemId": 2,
-        "systemName": "Administración de Flujos",
-        "status": "1",
-        "createdDate": "2025-05-13T15:44:12.989287"
-    },
-    {
-        "sourceSchema": "WORKFLOW",
-        "catalogueTypeId": 11,
-        "code": "KW-WSN",
-        "name": "Estado del WorkItem Notificación",
-        "systemId": 2,
-        "systemName": "Administración de Flujos",
-        "status": "1",
-        "createdDate": "2025-05-13T15:44:14.791818"
-    },
-    {
-        "sourceSchema": "WORKFLOW",
-        "catalogueTypeId": 22,
-        "code": "KW-WT",
-        "name": "Tipo de WorkItem",
-        "systemId": 2,
-        "systemName": "Administración de Flujos",
-        "status": "1",
-        "createdDate": "2025-05-13T15:44:28.141139"
-    }
   
 
   
 ]
+
 
