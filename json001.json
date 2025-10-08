@@ -198,11 +198,64 @@
         "systemName": "Administración de Flujos",
         "status": "1",
         "createdDate": "2025-05-13T15:44:26.325214"
-    }
+    },
+     {
+        "sourceSchema": "WORKFLOW",
+        "catalogueTypeId": 5,
+        "code": "KW-TRT",
+        "name": "Disparador de Evento",
+        "systemId": 2,
+        "systemName": "Administración de Flujos",
+        "status": "1",
+        "createdDate": "2025-05-13T15:44:03.793444"
+    },
+    {
+        "sourceSchema": "WORKFLOW",
+        "catalogueTypeId": 25,
+        "code": "KW-TS",
+        "name": "Tipos de servidor",
+        "systemId": 2,
+        "systemName": "Administración de Flujos",
+        "status": "1",
+        "createdDate": "2025-05-13T15:44:31.091221"
+    },
+    {
+        "sourceSchema": "WORKFLOW",
+        "catalogueTypeId": 10,
+        "code": "KW-WS",
+        "name": "Estado del WorkItem",
+        "systemId": 2,
+        "systemName": "Administración de Flujos",
+        "status": "1",
+        "createdDate": "2025-05-13T15:44:12.989287"
+    },
+    {
+        "sourceSchema": "WORKFLOW",
+        "catalogueTypeId": 11,
+        "code": "KW-WSN",
+        "name": "Estado del WorkItem Notificación",
+        "systemId": 2,
+        "systemName": "Administración de Flujos",
+        "status": "1",
+        "createdDate": "2025-05-13T15:44:14.791818"
+    },
+    {
+        "sourceSchema": "WORKFLOW",
+        "catalogueTypeId": 22,
+        "code": "KW-WT",
+        "name": "Tipo de WorkItem",
+        "systemId": 2,
+        "systemName": "Administración de Flujos",
+        "status": "1",
+        "createdDate": "2025-05-13T15:44:28.141139"
+    },
+ 
+
 
 
   
 ]
+
 
 
 
